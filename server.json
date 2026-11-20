@@ -1,10 +1,14 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.fshlabs/fsh-labs",
+  "version": "1.1.0",
   "title": "FSH Labs laser cutting",
   "description": "Price and order laser-cut parts and engraved products from FSH Labs. No account or key.",
-  "version": "1.1.0",
   "websiteUrl": "https://www.fshlabs.com/agents",
+  "repository": {
+    "url": "https://github.com/Cwoodall6/fsh-labs-agents",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
