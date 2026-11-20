@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fshlabs": {
+      "type": "http",
+      "url": "https://www.fshlabs.com/mcp"
+    }
+  }
+}
