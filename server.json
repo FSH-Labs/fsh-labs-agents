@@ -6,7 +6,7 @@
   "description": "Price and order laser-cut parts and engraved products from FSH Labs. No account or key.",
   "websiteUrl": "https://www.fshlabs.com/agents",
   "repository": {
-    "url": "https://github.com/Cwoodall6/fsh-labs-agents",
+    "url": "https://github.com/FSH-Labs/fsh-labs-agents",
     "source": "github"
   },
   "remotes": [
